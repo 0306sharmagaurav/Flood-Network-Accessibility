@@ -119,25 +119,6 @@ This produces a restoration priority list based entirely on graph analysis.
 
 ---
 
-## Repository Structure
-
-```
-.
-├── Transportation_Network_Analysis.ipynb
-├── README.md
-└── requirements.txt
-```
-
-The notebook contains the complete workflow:
-
-1. Data acquisition
-2. Network validation
-3. Flood scenario generation
-4. Accessibility analysis
-5. Restoration priority analysis
-
----
-
 ## Technologies Used
 
 - Python
@@ -163,21 +144,6 @@ The project uses the following algorithms and computational techniques:
 - Simulation-based infrastructure restoration ranking
 
 ---
-
-## Installation
-
-Clone the repository.
-
-```bash
-git clone https://github.com/<username>/<repository-name>.git
-cd <repository-name>
-```
-
-Install the required packages.
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
